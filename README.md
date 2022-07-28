@@ -1,5 +1,5 @@
 # Machine-Learning
-The following project implies running several machine learning models over the synthetic moon dataset.
+The following project implies running several machine learning models over a synthetic moon dataset.
 This models are fined-tuned to combat overfitting running hyper-parameters with gridsearch and cross folds.
 The machine learning models trained for predicion includes:
 -Decison Tree
